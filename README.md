@@ -27,8 +27,8 @@ Welcome to **Quiz Master**, a fun and interactive quiz application where knowled
 
 ## 🌐 Live Demo
 
-[🔗 Check the live app here]
-quiz-master-ten-omega.vercel.app
+[🔗 quiz-master-ten-omega.vercel.app]
+
 ---
 
 ## 👥 Creator
