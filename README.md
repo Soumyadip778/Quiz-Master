@@ -44,7 +44,7 @@ Welcome to **Quiz Master**, a fun and interactive quiz application where knowled
 
 Have ideas, bugs, or requests?  
 📧 Email: **maitysoumya904@gmail.com**  
-📱 Instagram: **<button href="https://www.instagram.com/dev_soumya07?igsh=MXYxdDQxbGoxOG9wcg==> Instagram </button>"**
+📱 Instagram: **https://www.instagram.com/dev_soumya07?igsh=MXYxdDQxbGoxOG9wcg==**
 
 ---
 
