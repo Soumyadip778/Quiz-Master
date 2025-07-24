@@ -34,15 +34,17 @@ Welcome to **Quiz Master**, a fun and interactive quiz application where knowled
 ## 👥 Creator
 
 - Soumyadip Maity
-- (https://github.com/soumyadip778) – Developer & Designer
+- (https://github.com/soumyadip778)
+
+– Developer & Designer
 
 ---
 
 ## 📫 Feedback
 
 Have ideas, bugs, or requests?  
-📧 Email: **maitymadhumita109@gamil.com**  
-📱 Instagram / Twitter: ****
+📧 Email: **maitysoumya904@gmail.com**  
+📱 Instagram: **<button href="https://www.instagram.com/dev_soumya07?igsh=MXYxdDQxbGoxOG9wcg==> Instagram </button>"**
 
 ---
 
