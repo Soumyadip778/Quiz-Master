@@ -7,12 +7,12 @@ Welcome to **Quiz Master**, a fun and interactive quiz application where knowled
 
 ## 🚀 Features
 
-✅ **KBC-Inspired Q&A Screen** – Only the question-answer section mimics the iconic KBC layout for immersive play.  
+✅ **KBC-Inspired Q&A Screen** – The question-answer section mimics the iconic KBC layout for immersive play.  
 ✅ **Multiple Topics** – Choose from categories like General Knowledge, Bollywood, Sports, Indian Culture, and more.  
 ✅ **High Score Tracker** – View and save your highest scores to challenge yourself again and again. 
 ✅ **Responsive UI** – Optimized for desktop, tablet, and mobile screens.  
 ✅ **API-Powered Questions** – Questions are fetched in real-time using public or custom APIs.  
-✅ **Lifelines & Timer** – Includes optional 50-50, Timer, or Audience Poll effects (manual logic).
+✅ **Lifelines & Timer** – Includes optional 50-50, Timer.
 
 ---
 
