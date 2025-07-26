@@ -8,7 +8,7 @@
   width: 4rem;
 }
 #dp{
-  background: url('/used_images/images (2).jpeg');
+  background: url('used_images/images (2).jpeg');
   background-size: cover;
     position: absolute;
     top: 1vh;
@@ -29,7 +29,7 @@
   background-color: #3F3F47;
 }
 #trophy{
-  background: url('/used_images/IMG_20250724_230629.jpg');
+  background: url('used_images/IMG_20250724_230629.jpg');
   background-size: cover;
 }
 .score-text{
@@ -55,7 +55,7 @@
   width: 6rem;
  }
  #sports{
-   background: url('/used_images/football.png');
+   background: url('used_images/football.png');
    background-size: contain;
    background-repeat: no-repeat;
  }
@@ -74,57 +74,57 @@
   justify-content: center;
 }
  #science{
-   background: url('/used_images/chemistry.png');
+   background: url('used_images/chemistry.png');
    background-size: contain;
    background-repeat: no-repeat;
  }
  #gk{
-   background: url('/used_images/gk.png');
+   background: url('used_images/gk.png');
    background-size: contain;
    background-repeat: no-repeat;
  }
  #Film{
-   background: url('/used_images/film.png');
+   background: url('used_images/film.png');
    background-size: contain;
 background-repeat: no-repeat;
  }
  #books{
-   background: url('/used_images/books.png');
+   background: url('used_images/books.png');
    background-size: contain;
 background-repeat: no-repeat;
  }
  #Music{
-   background: url('/used_images/music.png');
+   background: url('used_images/music.png');
    background-size: contain;
 background-repeat: no-repeat;
  }
  #games{
-   background: url('/used_images/games.png');
+   background: url('used_images/games.png');
    background-size: contain;
 background-repeat: no-repeat;
  }
  #Computers{
-   background: url('/used_images/computers.png');
+   background: url('used_images/computers.png');
    background-size: contain;
 background-repeat: no-repeat;
  }
  #math{
-   background: url('/used_images/math.png');
+   background: url('used_images/math.png');
    background-size: contain;
 background-repeat: no-repeat;
  }
  #History{
-   background: url('/used_images/history.png');
+   background: url('used_images/history.png');
    background-size: contain;
 background-repeat: no-repeat;
  }
  #geo{
-   background: url('/used_images/geo.png');
+   background: url('used_images/geo.png');
    background-size: contain;
 background-repeat: no-repeat;
  }
  #art{
-   background: url('/used_images/art.png');
+   background: url('used_images/art.png');
    background-size: contain;
 background-repeat: no-repeat;
    }
