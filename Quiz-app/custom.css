@@ -69,9 +69,6 @@
 .columns-left{
   margin-left: 10vw;
 }
-.columns-right{
-  margin-right: 10vw;
-}
 .centre-img{
   display: flex;
   justify-content: center;
