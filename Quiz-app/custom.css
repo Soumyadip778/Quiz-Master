@@ -48,7 +48,10 @@
    width: 90vw;
    margin-top: 2vh;
    flex-wrap: wrap;
-   gap: 3vh;
+   
+ }
+ .card{
+   margin-top: 3vh;
  }
  .card-img-top{
   height: 6rem;
