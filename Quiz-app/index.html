@@ -1,52 +1,191 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Quizz app</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-
-<body>
-  <div class="nav-bar">
-    <div class="nav-text">
-      <div class="nav-text-top">
-        <p>
-          Hey
-        </p>
-      </div>
-      <div class="nav-text-bottom">
-        <p style="color: #7C7C7D;">
-          Let's make this day productive
-        </p>
-      </div>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Master Quiz</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link rel="stylesheet" href="custom.css" />
+  </head>
+  <body class="bg-dark">
+<nav class="navbar  p-3 mb-2 bg-dark ">
+  <div class="container-fluid">
+    <div class="navbar-brand mb-0 h1" style="color: #fff"> Hey , John
+<div class="nav-bottom-text">
+  <p class="fw-light">Let's make this day productive</p>
+</div>
+    
     </div>
-    <div class="profile-photo">
-      
+
+ <div class="rounded-circle" id="dp">
+       </div>
+       </div>
+  </nav>
+ 
+  <div class="container text-center ">
+  <div class="row align-items-center">
+    <div class="col">
+     <div class="rounded-circle" id="trophy">
+       
+     </div>
+     <div class="score-text">
+       <div class="score-text-top text-white ">
+         <h6>
+           High Score
+         </h6>
+       </div>
+       <div class="score-text-bottom">
+         <p style="color: deepskyblue;">1089</p>
+       </div>
+     </div>
     </div>
   </div>
-  <div class="high-score">
-      
+</div>
 
-    <div class="trophy">
-      
-    </div>
-    <div class="high-score-box">
-      
-      
+  
 
-    <div class="high-score-top">
-      <h4 style="margin: 0;">
-        High Score
-      </h4>
-    </div>
-    <div class="high-score-bottom">
-      <p style="color: deepskyblue;">
-        1089
-      </p>
-    </div>
-         </div>
+<div class="grid text-center overflow-x-auto text-white" style="--bs-columns: 3;">
+  <div class="grid">
+<div class="columns-left">
+  <div class="card">
+        <div class="centre-img">
+  <div class="card-img-top" id="sports"> 
   </div>
-</body>
-</html>
+  </div>
+  <div class="card-body">
+    <h4 class="card-text text-white">Sports</h4>
+  </div>
+</div></div>
+
+    
+  
+  
+<div class="columns-right"><div class="card">
+        <div class="centre-img">
+  <div class="card-img-top" id="gk"> 
+  </div>
+  </div>
+  <div class="card-body">
+    <p class="card-text text-white" style="font-size: 1rem; font-weight: 700;">General Knowledge</p>
+  </div>
+</div></div>
+<div class="columns-left">
+  <div class="card">
+        <div class="centre-img">
+  <div class="card-img-top" id="science"> 
+  </div>
+  </div>
+  <div class="card-body">
+    <h4 class="card-text text-white">Science</h4>
+  </div>
+</div></div>
+
+    
+  
+  
+<div class="columns-right"><div class="card">
+        <div class="centre-img">
+  <div class="card-img-top" id="Film"> 
+  </div>
+  </div>
+  <div class="card-body">
+    <h4 class="card-text text-white">Film</h4>
+  </div>
+</div></div>
+<div class="columns-left">
+  <div class="card">
+        <div class="centre-img">
+  <div class="card-img-top" id="books"> 
+  </div>
+  </div>
+  <div class="card-body">
+    <h4 class="card-text text-white">Books</h4>
+  </div>
+</div></div>
+
+    
+  
+  
+<div class="columns-right"><div class="card">
+        <div class="centre-img">
+  <div class="card-img-top" id="Music"> 
+  </div>
+  </div>
+  <div class="card-body">
+    <h4 class="card-text text-white">Music</h4>
+  </div>
+</div></div>
+<div class="columns-left">
+  <div class="card">
+        <div class="centre-img">
+  <div class="card-img-top" id="games"> 
+  </div>
+  </div>
+  <div class="card-body">
+    <h4 class="card-text text-white">Games</h4>
+  </div>
+</div></div>
+
+    
+  
+  
+<div class="columns-right"><div class="card">
+        <div class="centre-img">
+  <div class="card-img-top" id="Computers"> 
+  </div>
+  </div>
+  <div class="card-body">
+   <p class="card-text text-white" style="font-size: 1.2rem; font-weight: 700;">Computers</p>
+  </div>
+</div></div>
+<div class="columns-left">
+  <div class="card">
+        <div class="centre-img">
+  <div class="card-img-top" id="math"> 
+  </div>
+  </div>
+  <div class="card-body">
+    <p class="card-text text-white" style="font-size: 1rem; font-weight: 800;">Mathematics</p>
+  </div>
+</div></div>
+
+    
+  
+  
+<div class="columns-right"><div class="card">
+        <div class="centre-img">
+  <div class="card-img-top" id="History"> 
+  </div>
+  </div>
+  <div class="card-body">
+    <h4 class="card-text text-white">History</h4>
+  </div>
+</div></div>
+<div class="columns-left">
+  <div class="card">
+        <div class="centre-img">
+  <div class="card-img-top" id="geo"> 
+  </div>
+  </div>
+  <div class="card-body">
+    <p class="card-text text-white" style="font-size: 1.2rem; font-weight: 700;">Geography</p>
+  </div>
+</div></div>
+
+    
+  
+  
+<div class="columns-right"><div class="card">
+        <div class="centre-img">
+  <div class="card-img-top" id="art"> 
+  </div>
+  </div>
+  <div class="card-body">
+    <h4 class="card-text text-white">Art</h4>
+  </div>
+</div></div>
+    </div>
+  </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+  </body>
+  </html>
